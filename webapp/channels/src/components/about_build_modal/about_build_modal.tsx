@@ -95,7 +95,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
         let title = (
             <FormattedMessage
                 id='about.teamEditiont0'
-                defaultMessage='Team Edition'
+                defaultMessage='Serenidad Chat'
             />
         );
 
